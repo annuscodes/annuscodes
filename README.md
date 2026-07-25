@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Annus 👋
 
-<!--
-**annuscodes/annuscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineering Student | Frontend Developer | Web Designer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about building modern, responsive, and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating clean UI, smooth animations and professional web experiences using HTML, CSS, JavaScript, PHP and modern frontend libraries.
+
+---
+
+## 🚀 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- Git & GitHub
+- GSAP
+- Three.js
+- Responsive Design
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Digital Marketing Agency
+A modern responsive agency website with animations.
+
+🔗 Live Demo:
+https://annuscodes.github.io/digital-marketing-agency/
+
+---
+
+### 💼 NexusFlow SaaS
+
+A premium multi-page SaaS landing page with Three.js and GSAP.
+
+🔗 Live Demo:
+https://annuscodes.github.io/Saas-landing-page/
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Fiverr
+- Upwork
+
+(Links coming soon)
+
+---
+
+Thanks for visiting my profile!
