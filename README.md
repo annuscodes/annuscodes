@@ -45,9 +45,9 @@ A modern multi-page e-commerce frontend featuring product browsing, product deta
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 🎨 Fiverr
-- 💻 Upwork
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-annus-a2299b297/)
+- 🎨 [Fiverr](https://www.fiverr.com/annus12)
+- 💻 Upwork — Coming soon
 
 ---
 
